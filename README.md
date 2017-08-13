@@ -1,7 +1,6 @@
 <h1>MediaTek Nougat Patches 1</h1>
 
-<b>To Apply Patches -
-This is patch directory</b>
+<b>To Apply Patches This is patch directory -</b>
 
 cd WORKING_DIR
 sh device/coolpad/CP8676_I02/patches/install.sh

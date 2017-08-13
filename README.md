@@ -1,4 +1,4 @@
-MediaTek Nougat Patches 1
+<b>MediaTek Nougat Patches 1</b>
 
 To Apply Patches -
 This is patch directory
